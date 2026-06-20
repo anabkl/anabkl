@@ -1,229 +1,89 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:0080ff,100:bf00ff&height=260&section=header&text=ANAS%20LAHRAOUI&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20in%20Progress%20%7C%20Full-Stack%20Builder%20%7C%20Morocco%20🇲🇦&descAlignY=55&descSize=18" />
+# Anas Lahraoui
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=950&height=70&lines=Computer+Engineering+%26+AI+Student;I+build+AI-powered+web+and+mobile+products;React+%2B+Python+%2B+Flutter+%2B+Deep+Learning;Turning+ideas+into+real+software+⚡;Open+to+internships+and+global+opportunities+🌍" />
+**Computer Engineering & Artificial Intelligence student at USMS Khouribga**
 
-<br/>
+Building practical AI systems, full-stack products, and learning-focused software from Morocco.
 
-<img src="https://user-images.githubusercontent.com/74038190/216656963-09118229-8a9e-4af0-910c-c37f35f2f0ce.gif" width="90" />
+[Portfolio](https://anas-portfolio-pro.vercel.app/) · [GitHub](https://github.com/anabkl) · [LinkedIn](https://www.linkedin.com/in/anas-lahraoui-a772a5300/) · [Email](mailto:lahraouianas16@gmail.com)
 
-<br/>
+<br />
 
-<a href="https://anas-portfolio-pro.vercel.app/">
-  <img src="https://img.shields.io/badge/🚀%20PORTFOLIO-LIVE%20DEMO-00f5ff?style=for-the-badge&labelColor=0a0a0a&color=00f5ff" />
-</a>
-<a href="https://github.com/anabkl">
-  <img src="https://img.shields.io/badge/GITHUB-anabkl-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/anas-lahraoui-a772a5300/">
-  <img src="https://img.shields.io/badge/LINKEDIN-Anas%20Lahraoui-0080ff?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:lahraouianas16@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-bf00ff?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=anabkl&label=PROFILE%20VIEWS&color=00f5ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=anabkl&amp;label=Profile%20views&amp;color=0f766e&amp;style=flat-square" alt="Profile views" />
 
 </div>
 
 ---
 
-<div align="center">
+## About me
 
-## ⚡ `whoami`
+I am a Computer Engineering and Artificial Intelligence student at **USMS Khouribga** in Morocco. I enjoy building software that brings together machine learning, clean interfaces, automation, and practical usefulness.
 
-</div>
+My interests span **artificial intelligence, data science, full-stack web development, mobile development, automation, and cybersecurity fundamentals**. My goal is to grow into an AI and software engineer who can carry a product from idea through implementation and deployment.
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="330" />
-
-```yaml
-name: Anas Lahraoui
-username: anabkl
-location: Morocco 🇲🇦
-role: Computer Engineering & Artificial Intelligence Student
-university: USMS Khouribga
-focus:
-  - Artificial Intelligence
-  - Full-Stack Web Development
-  - Mobile App Development
-  - Data Science
-  - Automation
-  - Cybersecurity Fundamentals
-
-currently_building:
-  - AI-powered software products
-  - Modern portfolio-grade web apps
-  - Deep learning experiments
-  - Real-world student projects
-
-open_to:
-  - Internships
-  - Remote junior roles
-  - AI collaborations
-  - Open-source projects
-```
-
-<br clear="right"/>
+- **Currently building:** AI-powered software products, modern web applications, deep learning experiments, and real-world student projects.
+- **Open to:** internships, remote junior roles, AI collaborations, and open-source projects.
 
 ---
 
-<div align="center">
+## Core technical stack
 
-## 🧠 About Me
-
-</div>
-
-I am **Anas Lahraoui**, a Computer Engineering & Artificial Intelligence student from Morocco.
-I like building projects that combine **AI, clean interfaces, automation, and real-world usefulness**.
-
-My main direction is to become a strong **AI + Software Engineer** capable of building complete products from idea to deployment.
-
-```txt
-> I do not just learn technologies.
-> I turn them into projects, demos, systems, and proof of work.
-```
+| Area | Technologies |
+| --- | --- |
+| AI & data | Python, Deep Learning, NLP, Data Science |
+| Frontend & mobile | JavaScript, TypeScript, React, Next.js, Vite, Tailwind CSS, Flutter, Dart, HTML, CSS |
+| Backend & databases | Node.js, Express, Java, PHP, MySQL, MongoDB |
+| Systems & tools | C, C++, Rust, Git, GitHub, Linux, VS Code, Automation |
 
 ---
 
-<div align="center">
+## Featured projects
 
-## 🌌 My Digital Space
+### [Lahraoui NeuralForex Pro](https://github.com/anabkl/Lahraoui-NeuralForex-Pro)
 
-<a href="https://anas-portfolio-pro.vercel.app/">
-  <img width="92%" src="https://anas-portfolio-pro.vercel.app/og-preview.png" alt="Portfolio Preview" />
-</a>
+A deep-learning system for EUR/USD forecasting that combines LSTM time-series models, NLP sentiment analysis, and MetaTrader 5 integration.
 
-<br/><br/>
+`Python` · `Deep Learning` · `NLP` · `MetaTrader 5`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=800&color=BF00FF&center=true&vCenter=true&width=800&lines=Premium+portfolio+style;Dark+cyber+UI;AI+%2B+software+engineering+identity;Built+with+React%2C+Vite%2C+Tailwind+and+motion" />
+### DL Studio
 
-</div>
+An interactive deep learning platform in French for university students, with guided simulations, visualizations, and practical exercises.
 
----
+`TypeScript` · `Python` · `React` · `AI Education`
 
-<div align="center">
+_Private academic project._
 
-## 🛠️ Tech Arsenal
+### FiduExtract AI
 
-### Languages
+A local-first document AI workflow for Moroccan invoice extraction, validation, and UBL-ready XML export.
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,java,php,rust,dart,html,css&theme=dark" />
+`TypeScript` · `Python` · `Document AI` · `Automation`
 
-### Frontend / Mobile
+_Private project._
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs,flutter&theme=dark" />
+### [LahraCore OS](https://github.com/anabkl/LahraCore-OS)
 
-### Backend / Data / Tools
+An experimental AI-native microkernel concept exploring Rust, ARM64, WASM sandboxing, and resource-aware systems design.
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,git,github,vscode,linux&theme=dark" />
-
-</div>
+`Rust` · `ARM64` · `WASM` · `Systems Programming`
 
 ---
 
-<div align="center">
-
-## 🚀 Featured Projects
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">📈 Lahraoui NeuralForex Pro</h3>
-
-<p align="center">
-Professional deep learning Forex predictor for EUR/USD combining LSTM time-series forecasting and NLP sentiment analysis.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-00f5ff?style=for-the-badge&logo=python&logoColor=black" />
-<img src="https://img.shields.io/badge/Deep%20Learning-bf00ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NLP-0080ff?style=for-the-badge" />
-</p>
-
-</td>
-<td width="50%">
-
-<h3 align="center">🧠 DL Studio</h3>
-
-<p align="center">
-Interactive learning platform for Deep Learning in French, designed for students and practical AI education.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/React-00f5ff?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/AI%20Education-bf00ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Frontend-0080ff?style=for-the-badge" />
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<h3 align="center">🧾 FiduExtract AI</h3>
-
-<p align="center">
-AI-oriented document extraction and automation system focused on structured data workflows.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/TypeScript-00f5ff?style=for-the-badge&logo=typescript&logoColor=black" />
-<img src="https://img.shields.io/badge/Automation-bf00ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI-0080ff?style=for-the-badge" />
-</p>
-
-</td>
-<td width="50%">
-
-<h3 align="center">⚙️ LahraCore OS</h3>
-
-<p align="center">
-Experimental AI-native distributed microkernel concept with Rust, WASM sandboxing, and resource-aware design.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Rust-00f5ff?style=for-the-badge&logo=rust&logoColor=black" />
-<img src="https://img.shields.io/badge/Systems-bf00ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/WASM-0080ff?style=for-the-badge" />
-</p>
-
-</td>
-</tr>
-</table>
-
----
+## GitHub activity
 
 <div align="center">
 
-## 📊 GitHub Live Dashboard
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anabkl&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=bf00ff&text_color=ffffff&bg_color=0a0a0a" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=anabkl&theme=tokyonight&hide_border=true&background=0a0a0a&ring=00f5ff&fire=bf00ff&currStreakLabel=00f5ff" />
-
-<br/><br/>
-
-<img width="62%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabkl&layout=compact&theme=tokyonight&hide_border=true&title_color=00f5ff&text_color=ffffff&bg_color=0a0a0a" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=anabkl&bg_color=0a0a0a&color=ffffff&line=00f5ff&point=bf00ff&area=true&hide_border=true&custom_title=Anas%20Lahraoui%20Contribution%20Graph" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Achievements
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=anabkl&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anabkl&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=34d399&amp;icon_color=f59e0b&amp;text_color=e2e8f0" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=anabkl&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=047857&amp;icon_color=b45309&amp;text_color=334155" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=anabkl&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=047857&amp;icon_color=b45309&amp;text_color=334155" alt="Anas Lahraoui's GitHub statistics" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anabkl&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=34d399&amp;text_color=e2e8f0" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anabkl&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=047857&amp;text_color=334155" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabkl&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=047857&amp;text_color=334155" alt="Most used languages across Anas Lahraoui's public repositories" />
+</picture>
 
 </div>
 
@@ -243,69 +103,12 @@ Experimental AI-native distributed microkernel concept with Rust, WASM sandboxin
 
 ---
 
-<div align="center">
+## Contact
 
-## ⚙️ Current Mission
-
-</div>
-
-```mermaid
-flowchart LR
-    A[Learn AI] --> B[Build Projects]
-    B --> C[Deploy Products]
-    C --> D[Improve Portfolio]
-    D --> E[Apply for Internships]
-    E --> F[Global Opportunities]
-```
-
----
+For internships, junior opportunities, or technical collaborations, the best ways to reach me are email or LinkedIn.
 
 <div align="center">
 
-## 🌍 Connect With Me
-
-<a href="https://anas-portfolio-pro.vercel.app/">
-  <img src="https://img.shields.io/badge/Website-anas--portfolio--pro.vercel.app-00f5ff?style=for-the-badge&logo=vercel&logoColor=black" />
-</a>
-
-<a href="https://www.linkedin.com/in/anas-lahraoui-a772a5300/">
-  <img src="https://img.shields.io/badge/LinkedIn-Anas%20Lahraoui-0080ff?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:anas.lahraoui@usms.ac.ma">
-  <img src="https://img.shields.io/badge/University%20Email-USMS-bf00ff?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="mailto:lahraouianas16@gmail.com">
-  <img src="https://img.shields.io/badge/Personal%20Email-Contact%20Me-00f5ff?style=for-the-badge&logo=gmail&logoColor=black" />
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+profile+⚡;Let%27s+build+something+real.;AI+%2B+Software+%2B+Execution." />
+[Portfolio](https://anas-portfolio-pro.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/anas-lahraoui-a772a5300/) · [University email](mailto:anas.lahraoui@usms.ac.ma) · [Personal email](mailto:lahraouianas16@gmail.com)
 
 </div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bf00ff,50:0080ff,100:00f5ff&height=180&section=footer&animation=twinkling" />
-
-</div>
-
-
-<!--
-**anabkl/anabkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
