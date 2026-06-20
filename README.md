@@ -233,7 +233,11 @@ Experimental AI-native distributed microkernel concept with Rust, WASM sandboxin
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/anabkl/anabkl/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anabkl/anabkl/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anabkl/anabkl/output/github-contribution-grid-snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/anabkl/anabkl/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</picture>
 
 </div>
 
