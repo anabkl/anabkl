@@ -1,130 +1,178 @@
 <div align="center">
 
-# Anas Lahraoui
+<img src="./assets/anas-ai-banner.svg" width="100%" alt="Anas Lahraoui — AI Product Engineer building machine learning, computer vision, and full-stack products" />
 
-### AI &amp; Full-Stack Developer · Khouribga, Morocco
+<br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=17&amp;duration=3200&amp;pause=900&amp;color=10B981&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=780&amp;height=45&amp;lines=Computer+Science+%26+Artificial+Intelligence+Graduate;Incoming+Master%27s+Student+in+AI+%E2%80%94+September+2026;Building+practical+AI%2C+data+%26+SaaS+products" alt="Computer Science and Artificial Intelligence graduate building practical AI, data, and SaaS products" />
-
-I build complete, practical products across **machine learning, APIs, data, and modern web interfaces**.
-
-<a href="https://anas-portfolio-pro.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/anas-lahraoui-a772a5300/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:anas.lahraoui@usms.ac.ma"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Anas Lahraoui" /></a>
+<a href="https://anas-portfolio-pro.vercel.app/"><img src="https://img.shields.io/badge/ENTER_PORTFOLIO-10B981?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/anas-lahraoui-a772a5300/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:anas.lahraoui@usms.ac.ma"><img src="https://img.shields.io/badge/START_A_CONVERSATION-111827?style=for-the-badge&amp;logo=gmail&amp;logoColor=F59E0B" alt="Email Anas Lahraoui" /></a>
 
 </div>
 
----
-
-## About me
-
-I am a **Computer Science and Artificial Intelligence graduate** from Université Sultan Moulay Slimane. I will begin a Master's degree in Artificial Intelligence in September 2026.
-
-My focus is not only on training models. I enjoy building the full product around them: data workflows, backend APIs, dashboards, user interfaces, validation, and deployment.
-
-- Strong hands-on focus on **Machine Learning, Deep Learning, and Computer Vision**.
-- Building with **Python, FastAPI, React, Next.js, SQL, and modern AI workflows**.
-- Previous experience with industrial data and supervision at **OCP Group — STEP Khouribga**.
-- Open to AI/ML, data, computer vision, and full-stack opportunities.
-
----
-
-## Technical stack
-
-<p>
-  <strong>AI, Machine Learning &amp; Data</strong><br />
-  <img src="https://img.shields.io/badge/Python-0F766E?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-0F766E?style=flat-square&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit--learn-0F766E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/OpenCV-0F766E?style=flat-square&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Pandas-0F766E?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
-</p>
-
-<p>
-  <strong>Backend, APIs &amp; Databases</strong><br />
-  <img src="https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&amp;logo=fastapi&amp;logoColor=10B981" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Node.js-1E293B?style=flat-square&amp;logo=nodedotjs&amp;logoColor=10B981" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-1E293B?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-1E293B?style=flat-square&amp;logo=mongodb&amp;logoColor=10B981" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Supabase-1E293B?style=flat-square&amp;logo=supabase&amp;logoColor=10B981" alt="Supabase" />
-</p>
-
-<p>
-  <strong>Frontend &amp; Product Engineering</strong><br />
-  <img src="https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-1E293B?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-1E293B?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vite-1E293B?style=flat-square&amp;logo=vite&amp;logoColor=FFD166" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-1E293B?style=flat-square&amp;logo=tailwindcss&amp;logoColor=38BDF8" alt="Tailwind CSS" />
-</p>
-
-<p>
-  <strong>Tools &amp; Delivery</strong><br />
-  <img src="https://img.shields.io/badge/Git-1E293B?style=flat-square&amp;logo=git&amp;logoColor=F97316" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-1E293B?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Docker-1E293B?style=flat-square&amp;logo=docker&amp;logoColor=38BDF8" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-1E293B?style=flat-square&amp;logo=linux&amp;logoColor=FFD166" alt="Linux" />
-  <img src="https://img.shields.io/badge/Vercel-1E293B?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />
-</p>
-
----
-
-## Featured projects
+<br />
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/anabkl/ProofFlio-ai">ProofFolio AI</a></h3>
-      <p>An evidence-first portfolio SaaS that turns projects, certificates, CV data, and GitHub evidence into recruiter-ready public portfolios.</p>
-      <p><code>Next.js</code> · <code>TypeScript</code> · <code>Tailwind CSS</code> · <code>Supabase</code></p>
-      <p><a href="https://proof-flio-ai.vercel.app/">Live product</a> · <a href="https://github.com/anabkl/ProofFlio-ai">Repository</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/anabkl/Sahtek.tech">Sahtek</a></h3>
-      <p>A multilingual Moroccan health-awareness PWA with guided education, local-first privacy, an AI assistant, and doctor discovery.</p>
-      <p><code>React</code> · <code>TypeScript</code> · <code>PWA</code> · <code>AI Integration</code></p>
-      <p><a href="https://sahtek.tech">Live product</a> · <a href="https://github.com/anabkl/Sahtek.tech">Repository</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/anabkl/FPK-EXPRESS">FPK-EXPRESS</a></h3>
-      <p>A campus preorder and pickup MVP shaped by a field survey of 23 FPK Khouribga students, with student and vendor workflows.</p>
-      <p><code>React</code> · <code>FastAPI</code> · <code>SQLite</code> · <code>Docker</code></p>
-      <p><a href="https://github.com/anabkl/FPK-EXPRESS">Repository</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/anabkl/Lahraoui-NeuralForex-Pro">NeuralForex Pro</a></h3>
-      <p>An academic, simulation-only microservices platform for EUR/USD prediction, risk calculation, backtesting, and monitoring.</p>
-      <p><code>Python</code> · <code>FastAPI</code> · <code>Java</code> · <code>PHP</code> · <code>Docker</code></p>
-      <p><a href="https://github.com/anabkl/Lahraoui-NeuralForex-Pro">Repository</a></p>
-    </td>
-  </tr>
+<tr>
+<td width="58%" valign="top">
+
+## 01 // IDENTITY
+
+I am **Anas Lahraoui**, a Computer Science and Artificial Intelligence graduate from Université Sultan Moulay Slimane in Morocco.
+
+I do not want AI work to stop at model accuracy. I build the system around the model: **data, validation, APIs, interfaces, deployment, and a product people can actually use.**
+
+My strongest hands-on areas are **Machine Learning, Deep Learning, Computer Vision, and AI-powered full-stack products**.
+
+</td>
+<td width="42%" valign="top">
+
+## LIVE SYSTEM
+
+```text
+ROLE       AI Product Engineer
+LOCATION   Khouribga, Morocco
+EDUCATION  Licence SIIA ✓
+NEXT       Master in AI · 09/2026
+MODE       Build → Test → Ship
+STATUS     Open to opportunities
+```
+
+</td>
+</tr>
 </table>
 
 ---
 
-## Education, experience &amp; learning
+## 02 // HOW I SHIP AI
 
-- **Incoming Master's student in Artificial Intelligence** — Université Sultan Moulay Slimane, starting September 2026.
-- **Licence d'Excellence in Computer Science &amp; Artificial Intelligence** — Université Sultan Moulay Slimane.
-- **Industrial Data &amp; Supervision Intern** — OCP Group, STEP Khouribga, July–August 2025.
-- **DeepLearning.AI** — Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization.
-- **MongoDB** — From the Relational Model to MongoDB's Document Model.
+<div align="center">
 
----
+<img src="./assets/product-loop.svg" width="100%" alt="Anas Lahraoui's product engineering loop from problem discovery to deployment" />
 
-## Current direction
+</div>
 
-- Building production-minded AI applications, not isolated notebooks.
-- Exploring computer vision, document intelligence, RAG, and intelligent automation.
-- Improving deployment, testing, MLOps, and cloud engineering skills.
-- Looking for internships, junior roles, and technical collaborations where I can ship useful products.
+> **My rule:** a model becomes valuable only when it is connected to a real problem, trustworthy data, a usable interface, and a measurable outcome.
 
 ---
 
-## Contribution activity
+## 03 // FEATURED SYSTEMS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01. [ProofFolio AI](https://github.com/anabkl/ProofFlio-ai)
+
+**Evidence-first career infrastructure**
+
+Turns CV material, GitHub repositories, certificates, and project evidence into recruiter-ready public portfolios with user-controlled review and publishing.
+
+`Next.js` `TypeScript` `Supabase` `Product UX`
+
+[Live product](https://proof-flio-ai.vercel.app/) · [Source](https://github.com/anabkl/ProofFlio-ai)
+
+</td>
+<td width="50%" valign="top">
+
+### 02. [Sahtek](https://github.com/anabkl/Sahtek.tech)
+
+**Darija-first health awareness platform**
+
+A multilingual Moroccan PWA combining guided education, privacy-first local flows, an AI assistant, reminders, and doctor discovery.
+
+`React` `TypeScript` `PWA` `AI Integration`
+
+[Live product](https://sahtek.tech) · [Source](https://github.com/anabkl/Sahtek.tech)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03. [FPK-EXPRESS](https://github.com/anabkl/FPK-EXPRESS)
+
+**A campus product built from field evidence**
+
+Preorder and pickup workflows for students and vendors, shaped by a survey of **23 FPK Khouribga students** and backed by a full-stack MVP.
+
+`React` `FastAPI` `SQLite` `Docker`
+
+[Explore the system](https://github.com/anabkl/FPK-EXPRESS)
+
+</td>
+<td width="50%" valign="top">
+
+### 04. [NeuralForex Pro](https://github.com/anabkl/Lahraoui-NeuralForex-Pro)
+
+**Simulation-only AI microservices laboratory**
+
+An academic system for EUR/USD prediction, risk calculation, backtesting, service orchestration, and monitoring—safe by default.
+
+`Python` `FastAPI` `Java` `PHP` `Docker`
+
+[Explore the architecture](https://github.com/anabkl/Lahraoui-NeuralForex-Pro)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 04 // ENGINEERING ARSENAL
+
+| Layer | Tools I use |
+| --- | --- |
+| **Intelligence** | `Python` · `TensorFlow` · `scikit-learn` · `OpenCV` · `Pandas` · `NLP` |
+| **Backend & Data** | `FastAPI` · `REST APIs` · `Node.js` · `SQL` · `PostgreSQL` · `MySQL` · `MongoDB` · `Supabase` |
+| **Product Engineering** | `TypeScript` · `React` · `Next.js` · `Vite` · `Tailwind CSS` · `Dashboards` |
+| **Delivery** | `Git` · `GitHub Actions` · `Docker` · `Linux` · `Vercel` · `Testing` |
+
+<details>
+<summary><strong>What I am pushing deeper into</strong></summary>
+<br />
+
+`Document Intelligence` · `RAG` · `MLOps` · `Cloud Deployment` · `Model Evaluation` · `Reliable AI Product Design`
+
+</details>
+
+---
+
+## 05 // PROOF LAYER
+
+| Signal | Evidence |
+| --- | --- |
+| **Industrial context** | Two-month Data & Industrial Supervision internship at **OCP Group — STEP Khouribga** |
+| **Problem validation** | FPK-EXPRESS began with responses from **23 real students**, not assumptions |
+| **Deep-learning discipline** | DeepLearning.AI certificate completed with a **97.69%** score |
+| **End-to-end execution** | Public products combining product design, frontend, backend, data, deployment, and documentation |
+| **Continuous learning** | MongoDB document modeling, model tuning, regularization, optimization, and product-oriented engineering |
+
+---
+
+## 06 // CURRENT TRANSMISSION
+
+```yaml
+building:
+  - evidence-first AI and SaaS products
+  - computer-vision and document-intelligence workflows
+  - reliable APIs, dashboards, and user-facing AI systems
+
+learning:
+  - MLOps and cloud deployment
+  - evaluation beyond a single accuracy score
+  - safer, more transparent AI product decisions
+
+looking_for:
+  - AI / ML internships
+  - computer-vision or data opportunities
+  - junior full-stack and AI product roles
+  - serious technical collaborations
+```
+
+---
+
+## 07 // CONTRIBUTION SIGNAL
 
 <div align="center">
 
@@ -138,12 +186,14 @@ My focus is not only on training models. I enjoy building the full product aroun
 
 ---
 
-## Let's connect
-
-I am open to internships, junior opportunities, open-source work, and collaborations in AI, data, computer vision, and full-stack product development.
-
 <div align="center">
 
-[Portfolio](https://anas-portfolio-pro.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/anas-lahraoui-a772a5300/) · [GitHub](https://github.com/anabkl) · [anas.lahraoui@usms.ac.ma](mailto:anas.lahraoui@usms.ac.ma)
+### BUILDING FROM MOROCCO. THINKING GLOBALLY. SHIPPING WITH PROOF.
+
+If you are building something meaningful in AI, data, computer vision, or product engineering, let's talk.
+
+[**Portfolio**](https://anas-portfolio-pro.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/anas-lahraoui-a772a5300/) · [**Email**](mailto:anas.lahraoui@usms.ac.ma) · [**All repositories**](https://github.com/anabkl?tab=repositories)
+
+<sub>Designed as a living engineering profile—not a static résumé.</sub>
 
 </div>
