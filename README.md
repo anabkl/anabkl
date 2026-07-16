@@ -7,7 +7,9 @@
 <a href="https://anas-portfolio-pro.vercel.app/"><img src="https://img.shields.io/badge/ENTER_PORTFOLIO-10B981?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/anas-lahraoui-a772a5300/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:anas.lahraoui@usms.ac.ma"><img src="https://img.shields.io/badge/START_A_CONVERSATION-111827?style=for-the-badge&amp;logo=gmail&amp;logoColor=F59E0B" alt="Email Anas Lahraoui" /></a>
-
+<a href="https://github.com/sponsors/anabkl">
+  <img src="https://img.shields.io/badge/Sponsor-anabkl-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Anas Lahraoui" />
+</a>
 </div>
 
 <br />
