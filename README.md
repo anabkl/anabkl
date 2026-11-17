@@ -18,7 +18,7 @@
 <tr>
 <td width="58%" valign="top">
 
-## 01 // IDENTITY
+## 01 IDENTITY
 
 I am **Anas Lahraoui**, a Computer Science and Artificial Intelligence graduate from Université Sultan Moulay Slimane in Morocco.
 
@@ -46,7 +46,7 @@ STATUS     Open to opportunities
 
 ---
 
-## 02 // HOW I SHIP AI
+## 02 HOW I SHIP AI
 
 <div align="center">
 
@@ -58,7 +58,7 @@ STATUS     Open to opportunities
 
 ---
 
-## 03 // FEATURED SYSTEMS
+## 03 FEATURED SYSTEMS
 
 <table>
 <tr>
@@ -121,7 +121,7 @@ An academic system for EUR/USD prediction, risk calculation, backtesting, servic
 
 ---
 
-## 04 // ENGINEERING ARSENAL
+## 04 ENGINEERING ARSENAL
 
 | Layer | Tools I use |
 | --- | --- |
@@ -140,7 +140,7 @@ An academic system for EUR/USD prediction, risk calculation, backtesting, servic
 
 ---
 
-## 05 // PROOF LAYER
+## 05 PROOF LAYER
 
 | Signal | Evidence |
 | --- | --- |
@@ -152,7 +152,7 @@ An academic system for EUR/USD prediction, risk calculation, backtesting, servic
 
 ---
 
-## 06 // CURRENT TRANSMISSION
+## 06 CURRENT TRANSMISSION
 
 ```yaml
 building:
@@ -174,7 +174,7 @@ looking_for:
 
 ---
 
-## 07 // CONTRIBUTION SIGNAL
+## 07 CONTRIBUTION SIGNAL
 
 <div align="center">
 
