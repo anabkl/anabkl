@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/anas-ai-banner.svg" width="100%" alt="Anas Lahraoui — AI Product Engineer building machine learning, computer vision, and full-stack products" />
+<img src="./assets/anas-ai-banner.svg" width="100%" alt="Anas Lahraoui — AI/ML and full-stack developer, building machine learning, computer vision, and NLP products" />
 
 <br />
 
@@ -20,11 +20,13 @@
 
 ## 01 IDENTITY
 
-I am **Anas Lahraoui**, a Computer Science and Artificial Intelligence graduate from Université Sultan Moulay Slimane in Morocco.
+I am **Anas Lahraoui**, an **AI/ML & Full-Stack Developer** and **Master 1 student in Information Systems and Artificial Intelligence (SIIA)** at Université Sultan Moulay Slimane, Faculté Polydisciplinaire de Khouribga, Morocco.
 
 I do not want AI work to stop at model accuracy. I build the system around the model: **data, validation, APIs, interfaces, deployment, and a product people can actually use.**
 
-My strongest hands-on areas are **Machine Learning, Deep Learning, Computer Vision, and AI-powered full-stack products**.
+I have completed my Bachelor's degree (Licence S2IA). My hands-on areas include **Machine Learning, Deep Learning, Computer Vision, NLP, RAG, and AI-powered full-stack products**.
+
+In August 2026, I completed a two-month on-site AI/RAG internship at **Leet Solution / 1337 School, Khouribga**, where I independently developed an AI-powered document intelligence system using Retrieval-Augmented Generation (RAG) to search and extract information from company documents.
 
 </td>
 <td width="42%" valign="top">
@@ -32,12 +34,12 @@ My strongest hands-on areas are **Machine Learning, Deep Learning, Computer Visi
 ## LIVE SYSTEM
 
 ```text
-ROLE       AI Product Engineer
+ROLE       AI/ML & Full-Stack Developer
 LOCATION   Khouribga, Morocco
-EDUCATION  Licence SIIA ✓
-NEXT       Master in AI · 09/2026
+EDUCATION  Master 1 — SIIA
+DEGREE     Licence S2IA ✓
 MODE       Build → Test → Ship
-STATUS     Open to opportunities
+STATUS     Seeking AI / Machine Learning / NLP / RAG internships in France — On-site or Hybrid (4–6 months)
 ```
 
 </td>
@@ -125,7 +127,7 @@ An academic system for EUR/USD prediction, risk calculation, backtesting, servic
 
 | Layer | Tools I use |
 | --- | --- |
-| **Intelligence** | `Python` · `TensorFlow` · `scikit-learn` · `OpenCV` · `Pandas` · `NLP` |
+| **AI & Data** | **Hands-on:** `Python` · `Machine Learning` · `Deep Learning` · `Computer Vision` · `NLP` · `RAG` · `TensorFlow` · `scikit-learn` · `OpenCV` · `Pandas` |
 | **Backend & Data** | `FastAPI` · `REST APIs` · `Node.js` · `SQL` · `PostgreSQL` · `MySQL` · `MongoDB` · `Supabase` |
 | **Product Engineering** | `TypeScript` · `React` · `Next.js` · `Vite` · `Tailwind CSS` · `Dashboards` |
 | **Delivery** | `Git` · `GitHub Actions` · `Docker` · `Linux` · `Vercel` · `Testing` |
@@ -134,7 +136,7 @@ An academic system for EUR/USD prediction, risk calculation, backtesting, servic
 <summary><strong>What I am pushing deeper into</strong></summary>
 <br />
 
-`Document Intelligence` · `RAG` · `MLOps` · `Cloud Deployment` · `Model Evaluation` · `Reliable AI Product Design`
+`MLOps` · `Cloud Deployment` · `Model Evaluation` · `Reliable AI Product Design`
 
 </details>
 
@@ -144,6 +146,7 @@ An academic system for EUR/USD prediction, risk calculation, backtesting, servic
 
 | Signal | Evidence |
 | --- | --- |
+| **AI/RAG internship** | In August 2026, independently developed an AI-powered document intelligence system during a two-month on-site internship at **Leet Solution / 1337 School, Khouribga**; used RAG to search and extract information from company documents |
 | **Industrial context** | Two-month Data & Industrial Supervision internship at **OCP Group — STEP Khouribga** |
 | **Problem validation** | FPK-EXPRESS began with responses from **23 real students**, not assumptions |
 | **Deep-learning discipline** | DeepLearning.AI certificate completed with a **97.69%** score |
@@ -166,9 +169,9 @@ learning:
   - safer, more transparent AI product decisions
 
 looking_for:
-  - AI / ML internships
-  - computer-vision or data opportunities
-  - junior full-stack and AI product roles
+  - AI / Machine Learning / NLP / RAG internships in France
+  - on-site or hybrid roles for 4–6 months
+  - full-stack AI product opportunities
   - serious technical collaborations
 ```
 
